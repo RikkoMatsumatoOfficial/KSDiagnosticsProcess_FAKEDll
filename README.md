@@ -1,2 +1,10 @@
 # KSDiagnosticsProcess_FAKEDll
-KSDiagnosticsProcess_FAKEDll by RiritoNinigaya
+It is Fake DLL(KS_Diagnostics_Process.dll) for Some Games as Phasmophobia, HoloEarth, etc... So Enjoy to use this DLL!!!
+
+## Join To My Discord!!!
+
+[Join](https://discord.gg/fPy6mPV3PH)
+
+## Donation
+
+Soon!!!
