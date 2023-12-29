@@ -1,0 +1,2 @@
+# KSDiagnosticsProcess_FAKEDll
+KSDiagnosticsProcess_FAKEDll by RiritoNinigaya
