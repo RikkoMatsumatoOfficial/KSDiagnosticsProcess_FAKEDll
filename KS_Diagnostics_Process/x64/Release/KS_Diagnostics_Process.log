@@ -1,0 +1,7 @@
+﻿  dllmain.cpp
+     Creating library C:\Users\gsx12\source\repos\KS_Diagnostics_Process\x64\Release\KS_Diagnostics_Process.lib and object C:\Users\gsx12\source\repos\KS_Diagnostics_Process\x64\Release\KS_Diagnostics_Process.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 37 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  KS_Diagnostics_Process.vcxproj -> C:\Users\gsx12\source\repos\KS_Diagnostics_Process\x64\Release\KS_Diagnostics_Process.dll
