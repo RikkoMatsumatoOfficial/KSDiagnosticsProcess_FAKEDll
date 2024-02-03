@@ -7,4 +7,4 @@ It is Fake DLL(KS_Diagnostics_Process.dll) for Some Games as Phasmophobia, HoloE
 
 ## Donation
 
-Soon!!!
+[SubscribeStar](https://www.subscribestar.com/riritofrancois)
